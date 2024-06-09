@@ -1,4 +1,4 @@
 # test-css
 
 ``` css
-%%2$unicode{unicode-bidi: embed; direction: rtl; background: url('https://github.com/torturado/torturado/blob/main/matrix.gif?raw=true') no-repeat; background-size: 100% 100% !important; opacity: 0.5; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: -10; pointer-events: none; color: red; font-family: 'goombafont'; font-size: 16px; }
+$$\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; background-size: 100% 100%; opacity: 0.5; background: url('https://github.com/torturado/torturado/blob/main/matrix.gif?raw=true');]{x0000}$}$$
